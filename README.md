@@ -9,6 +9,7 @@ About 726 homeless people died in 2018, a rise of 22% in one year, the Office fo
 ## Get the data
 
 * ONS: [Deaths of homeless people in England and Wales](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/deathsofhomelesspeopleinenglandandwales) - [cached version from 2019](https://github.com/BBC-Data-Unit/homeless-deaths-2019/blob/master/2018deathsofhomelesspeopleinenglandandwales1.xls)
+* CSV: [Estimated and identified homeless deaths, 2013-2018](https://github.com/BBC-Data-Unit/homeless-deaths-2019/blob/master/deathsstacked.csv) (for visualisation)
 
 ## Quotes and interviews
 
